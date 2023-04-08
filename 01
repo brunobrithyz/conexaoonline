@@ -1,1 +1,1 @@
-{ "epg": "", "list": "http://conexaoonline.top:80/get.php?username=3497724630&password=2617111730&type=m3u_plus"," validade": "00/00/0000", "sucesso": true, "notificações": "LucSons" }
+{ "epg": "http://conexaoonline.top:80/xmltv.php?username=3497724630&password=2617111730&type=m3u_plus"", "list": "http://conexaoonline.top:80/get.php?username=3497724630&password=2617111730&type=m3u_plus", "max_connections": "900", "User-Agent": "VLC/3.0.11.2 LibVLC/3.0.11.2", "validity": "31/12/2025", "success": "true", "notifications": "LucSons", "position": "right" }
